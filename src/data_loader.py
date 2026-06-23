@@ -38,8 +38,7 @@ class DataLoader:
 		movies = self.load_movies()
 		users = self.load_users()
 
-		data = ratings.merge(movies, on="movie_id")
-		data = data.merge(users, on="user_id")
+		data = ratings.merge(movies, on="movie_id").merge(users, on="user_id")
 
 		return data
 
