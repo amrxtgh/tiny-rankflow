@@ -20,7 +20,7 @@ look up to this
 - Compare accross models
 
 
-# What i think i am going to do
+# Overview
 
 - implement collaborative filtering with content based filtering that uses item metadata and user demographics
 - Sticking to pure classical text processing: TF-IDF(Term Frequency-Inverse Document Frequency) combined with SVD(Truncated SVD) for latent Semantic Indexing.
@@ -28,7 +28,7 @@ look up to this
 
 
 
-# Exploring sentiment analysis
+# What i think i am gonna do 
 
 1. Preprocessing
 	1. k-core filtering
