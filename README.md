@@ -22,9 +22,7 @@ look up to this
 
 # Overview
 
-- implement collaborative filtering with content based filtering that uses item metadata and user demographics
-- Sticking to pure classical text processing: TF-IDF(Term Frequency-Inverse Document Frequency) combined with SVD(Truncated SVD) for latent Semantic Indexing.
-- For the ranking we can use the gradient boosted decision trees (GBDT) also known as LambdaMART in the market
+Implement collaborative filtering with content based filtering that uses item metadata and user demographics. Sticking to pure classical text processing: TF-IDF(Term Frequency-Inverse Document Frequency) combined with SVD(Truncated SVD) for latent Semantic Indexing. For the ranking we can use the gradient boosted decision trees (GBDT) also known as LambdaMART in the market
 
 
 
